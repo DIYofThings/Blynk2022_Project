@@ -1,6 +1,6 @@
 #define BLYNK_PRINT Serial
 #define BLYNK_TEMPLATE_ID "TMPLaqxCWyEz"
-#define BLYNK_DEVICE_NAME "WaterLevel"
+#define BLYNK_TEMPLATE_NAME "WaterLevel"
 #define BLYNK_AUTH_TOKEN ""
 #define LINE_TOKEN  ""
 #define TRIG_PIN D5
