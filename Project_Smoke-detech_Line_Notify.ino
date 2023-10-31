@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPLeAIBWVR_"
-#define BLYNK_DEVICE_NAME "MQ2 Smoke Detection And  Line Notify"
-#define BLYNK_AUTH_TOKEN "8oHJwr81W3uubkdQ--Tqz3GuiAK"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
