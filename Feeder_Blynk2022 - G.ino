@@ -12,7 +12,7 @@
 // กำหนดค่าเริ่มต้นของ Blynk
 // ในส่วนนี้ copy จากเว็บ Blynk Dashboard
 #define BLYNK_TEMPLATE_ID ""
-#define BLYNK_DEVICE_NAME ""
+#define BLYNK_TEMPLATE_NAME ""
 #define BLYNK_AUTH_TOKEN ""
 
 // กำหนดค่า Wifi และ Pass
