@@ -9,11 +9,13 @@
 
 #define BLYNK_PRINT Serial
 #define BLYNK_TEMPLATE_ID   ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "";
+char auth[] = BLYNK_AUTH_TOKEN;
 char ssid[] = "";
 char pass[] = "";
 
