@@ -8,7 +8,7 @@
 
 #define BLYNK_PRINT Serial
 #define BLYNK_TEMPLATE_ID ""
-#define BLYNK_DEVICE_NAME ""
+#define BLYNK_TEMPLATE_NAME ""
 #define BLYNK_AUTH_TOKEN ""
 
 // define PIN Mapping
